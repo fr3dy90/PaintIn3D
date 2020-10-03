@@ -1,0 +1,356 @@
+
+newmtl DIGITAL_GAUGE
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\common_black.dds
+
+newmtl GAUGE_EMISSIVE
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0.png
+
+newmtl METAL
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0.png
+bump c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0_nrml.png
+
+newmtl RUBBER
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\common_black.dds
+
+newmtl MOTTLED
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\leather.dds
+
+newmtl BUMP_LEATHER
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\leather.dds
+bump c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0_nrml.png
+
+newmtl MIRRORMIDDLE
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\mirror_placement.png
+
+newmtl HEADLINER
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0.png
+
+newmtl CLOTH
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\leather.dds
+
+newmtl LEATHER
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\leather.dds
+bump c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0_nrml.png
+
+newmtl SOLID
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\common_black.dds
+
+newmtl REFLECTOR
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\lights_lod0.png
+
+newmtl GLASS
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\common_glass_clear_diffuse.dds
+
+newmtl PLASTIC
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0.png
+
+newmtl BADGE
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0.png
+bump c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0_nrml.png
+
+newmtl BUMP_STITCHING
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0.png
+
+newmtl CPIT_REFLECTOR
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0.png
+
+newmtl GAUGE_NEEDLE
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\interior_lod0.png
+
+newmtl WINDOW
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\common_glass_green_diffuse.dds
+
+newmtl BLACK_GLASS
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\common_black.dds
+
+newmtl UNDERCARRIAGE
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\undercarriage.dds
+
+newmtl WEATHERSTRIP
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\common_black.dds
+
+newmtl BOTTOM
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\undercarriage.dds
+
+newmtl RUBBER_TRIM
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\common_black.dds
+
+newmtl DETAIL_GLASS_RED
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\lights_lod0.png
+
+newmtl MIRRORLEFT
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\mirror_placement.png
+
+newmtl FRAME
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\nodamage_lod0.png
+
+newmtl MATTE_COLORS
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\nodamage_lod0.png
+
+newmtl PLASTIC2
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\nodamage_lod0.png
+bump c:\users\chris\downloads\porshe 911 turbo (997)\flat_nm.dds
+
+newmtl BLACK
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\common_black.dds
+
+newmtl EXT_carpaint
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\body_paint.dds
+bump c:\users\chris\downloads\porshe 911 turbo (997)\flat_nm.dds
+
+newmtl DETAIL_GLASS_CLEAR
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\lights_lod0.png
+bump c:\users\chris\downloads\porshe 911 turbo (997)\flat_nm.dds
+
+newmtl CHROME
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\common_chrome.dds
+
+newmtl EXT_carpain
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\body_paint.dds
+bump c:\users\chris\downloads\porshe 911 turbo (997)\flat_nm.dds
+
+newmtl CHROME_2
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\common_chrome.dds
+bump c:\users\chris\downloads\porshe 911 turbo (997)\flat_nm.dds
+
+newmtl DETAIL_GLASS_AMBER
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\lights_lod0.png
+
+newmtl MISC
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\nodamage_lod0.png
+
+newmtl TAIL_LIGHT_LOD0
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\lights_lod0.png
+
+newmtl EMBLEM
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\nodamage_lod0.png
+
+newmtl HEAD_LIGHT
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\lights_lod0.png
+
+newmtl TEXTURED_REFLECTOR
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\lights_lod0.png
+
+newmtl CALIPER
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\nodamage_lod0.png
+
+newmtl BRAKE
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\nodamage_lod0.png
+bump c:\users\chris\downloads\porshe 911 turbo (997)\nodamage_lod0_nrml.png
+
+newmtl HUB
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\nodamage_lod0.png
+
+newmtl INNER_RIM
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\wheel_lod0.png
+
+newmtl RIM
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\wheel_lod0.png
+bump c:\users\chris\downloads\porshe 911 turbo (997)\wheel_lod0_nrml.png
+
+newmtl EXT_TYRE
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\tyre_d.dds
+bump c:\users\chris\downloads\porshe 911 turbo (997)\tyre_nm.dds
+
+newmtl EXT_PLATE
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\plate_d.dds
+bump c:\users\chris\downloads\porshe 911 turbo (997)\plate_nm.dds
+
+newmtl REVERSE_LIGHT_LOD0
+ka 1.00 1.00 1.00
+kd 1.00 1.00 1.00
+ks 0.00 0.00 0.00
+Ns 50
+map_Kd c:\users\chris\downloads\porshe 911 turbo (997)\lights_lod0.png
